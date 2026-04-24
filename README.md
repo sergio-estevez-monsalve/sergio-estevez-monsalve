@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sergio Estevez Monsalve</h1>
+<h1 align="center">Sergio Estevez Monsalve</h1>
 
 <p align="center">
 <strong>Full Stack Engineer • DICOM • PACS • RIS Specialist • OHIF • Healthcare Tech</strong>
@@ -6,38 +6,34 @@
 
 <p align="center">
 <a href="https://xerus-ris.com/" target="_blank">
-<img src="https://img.shields.io/badge/Xerus%20RIS-Live-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20Xerus%20RIS-Live-blue?style=for-the-badge"/>
 </a>
-<a href="https://xerus-ris.com/" target="_blank">
-<img src="https://img.shields.io/badge/DICOM-Expert-success?style=for-the-badge"/>
-</a>
-<a href="https://xerus-ris.com/" target="_blank">
-<img src="https://img.shields.io/badge/PACS-Integration-informational?style=for-the-badge"/>	
-</a>
-<a href="https://xerus-ris.com/" target="_blank">
-<img src="https://img.shields.io/badge/OHIF-Viewer-orange?style=for-the-badge"/>
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Work%20With%20Me-Contact-success?style=for-the-badge"/>
 </a>
 </p>
 
+---
+
 ## 🧠 About
 
-Front-end and back-end developer focused on **medical imaging systems**.  
-Specialized in **DICOM workflows, PACS integrations, and RIS platforms**, with hands-on experience implementing **Dcm4chee Arc Light, Orthanc, and OHIF Viewer**.
+Full Stack developer specialized in **medical imaging systems**.
 
-I build **production-ready healthcare systems** used in real clinical environments.
+I design and build **production-grade RIS/PACS platforms**, integrating **DICOM workflows, viewers, and scalable web architectures** for real clinical environments.
 
 ---
 
-## 🚀 Flagship Product
+## 🚀 Xerus RIS (Flagship Product)
 
-### 🏥 Xerus RIS
+### 🏥 Radiology Information System
 
-**Radiology Information System (RIS) integrated with PACS and DICOM workflows**
+A **complete RIS/PACS/DICOM platform** designed for clinics and radiology centers.
 
-- End-to-end radiology workflow management
+**Core capabilities:**
+- End-to-end radiology workflow
 - DICOM interoperability
 - Web-based architecture
-- Scalable for clinics and hospitals
+- High scalability & performance
 
 🔗 https://xerus-ris.com/
 
@@ -45,34 +41,50 @@ I build **production-ready healthcare systems** used in real clinical environmen
 
 ## 📊 Impact
 
-- 📈 +10,000 estudios procesados *(ajústalo a tu número real)*
-- 🏥 Deploy en clínicas reales
-- ⚡ Integración completa con PACS y visores DICOM
-- 🌐 Sistema web accesible y escalable
+- 📈 +10,000 estudios procesados *(actualiza con tu métrica real)*
+- 🏥 Deploy en múltiples clínicas
+- ⚡ Integración completa con PACS + visores DICOM
+- 🌐 Plataforma web robusta en producción
 
-## 🖥️ Screenshots Xerus RIS
+---
 
-<p align="center">
-<img src="https://xerus-ris.com/images/baner1.png" width="300"/>
-<img src="https://xerus-ris.com/images/baner3.png" width="300"/>
-</p>
-
-### 📸 Workflow & UI
+## 🖥️ Product Preview
 
 <p align="center">
-<img src="https://xerus-ris.com/images/story/story1.png" width="150"/>
-<img src="https://xerus-ris.com/images/story/story2.png" width="150"/>
-<img src="https://xerus-ris.com/images/story/story4.png" width="150"/>
-<img src="https://xerus-ris.com/images/story/story5.png" width="150"/>
-<img src="https://xerus-ris.com/images/story/story7.png" width="150"/>
+<img src="https://xerus-ris.com/images/baner1.png" width="700"/>
 </p>
 
-## 💼 What I Do
+<p align="center">
+<img src="https://xerus-ris.com/images/baner2.png" width="700"/>
+</p>
+
+<p align="center">
+<img src="https://xerus-ris.com/images/baner3.png" width="700"/>
+</p>
+
+---
+
+## 📸 Workflow & UI
+
+<p align="center">
+<img src="https://xerus-ris.com/images/story/story1.png" width="180"/>
+<img src="https://xerus-ris.com/images/story/story2.png" width="180"/>
+<img src="https://xerus-ris.com/images/story/story4.png" width="180"/>
+<img src="https://xerus-ris.com/images/story/story5.png" width="180"/>
+<img src="https://xerus-ris.com/images/story/story6.png" width="180"/>
+<img src="https://xerus-ris.com/images/story/story7.png" width="180"/>
+</p>
+
+---
+
+## 💼 Services
 
 - ⚙️ PACS & DICOM integrations
 - 🧩 Custom RIS development
 - 🧠 Workflow automation for radiology centers
-- 🌐 Full-stack web platforms (Java + JS ecosystem)
+- 🌐 Full-stack healthcare platforms
+
+---
 
 ## 🛠 Tech Stack
 
@@ -82,32 +94,32 @@ I build **production-ready healthcare systems** used in real clinical environmen
 
 ---
 
-## 🔗 Integrations
+## 🏥 Use Cases
 
-- 🔭 Dcm4chee 2.18 + Oviyam, Weasis, Horos, OsiriX  
-https://dcm4che.atlassian.net/wiki/spaces/ee2/pages/1172275206/Installation+dcm4chee+2.18.3
-
-- ⚡ Orthanc + OHIF Viewer  
-https://youtu.be/CWQlbUJLRTw
-
-- ⚡ Dcm4chee Arc Light + OHIF Viewer  
-https://youtu.be/WalNPoDXngE
-
-- ☢️ RIS Integration  
-https://youtu.be/dF5z4Ul-S9g
+- Private radiology clinics
+- Diagnostic imaging centers
+- Healthcare startups
+- Custom medical software integrations
 
 ---
 
-## 🏆 Highlights
+## 🌍 Language
 
-- Production RIS/PACS system deployed
-- Deep experience in DICOM standard
-- Real-world healthcare integrations
-- Focus on performance & scalability
+🇬🇧 English / 🇪🇸 Español
 
 ---
 
-## 🤝 Contact / Support
+## 🤝 Work With Me
+
+<p align="center">
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Contact%20Me-Start%20a%20Project-blue?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+## ❤️ Support
 
 <p align="center">
 <a href="https://paypal.me/sergiomonsalve?locale.x=es_XC&country.x=CO">
@@ -118,5 +130,6 @@ https://youtu.be/dF5z4Ul-S9g
 ---
 
 <p align="center">
-<strong>Building scalable medical imaging systems for real-world impact</strong>
+<strong>Building real-world medical imaging systems that scale</strong>
 </p>
+
