@@ -60,7 +60,7 @@ I build **production-ready healthcare systems** used in real clinical environmen
 <img src="https://xerus-ris.com/images/story/story4.png" width="150"/>
 <img src="https://xerus-ris.com/images/story/story5.png" width="150"/>
 <img src="https://xerus-ris.com/images/story/story6.png" width="150"/>
-<img src="https://xerus-ris.com/images/story/story7.png" width="100"/>
+<img src="https://xerus-ris.com/images/story/story7.png" width="150"/>
 </p>
 
 ## 💼 What I Do
