@@ -58,12 +58,9 @@ I build **production-ready healthcare systems** used in real clinical environmen
 <img src="https://xerus-ris.com/images/story/story1.png" width="150"/>
 <img src="https://xerus-ris.com/images/story/story2.png" width="150"/>
 <img src="https://xerus-ris.com/images/story/story4.png" width="150"/>
-</p>
-
-<p align="center">
 <img src="https://xerus-ris.com/images/story/story5.png" width="150"/>
 <img src="https://xerus-ris.com/images/story/story6.png" width="150"/>
-<img src="https://xerus-ris.com/images/story/story7.png" width="1500"/>
+<img src="https://xerus-ris.com/images/story/story7.png" width="100"/>
 </p>
 
 ## 💼 What I Do
@@ -119,3 +116,6 @@ https://youtu.be/dF5z4Ul-S9g
 <p align="center">
 <strong>Building scalable medical imaging systems for real-world impact</strong>
 </p>
+
+<!-- Replace YOUR_USERNAME with your GitHub username -->
+
