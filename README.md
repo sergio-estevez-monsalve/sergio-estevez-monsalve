@@ -48,7 +48,6 @@ I build **production-ready healthcare systems** used in real clinical environmen
 
 <p align="center">
 <img src="https://xerus-ris.com/images/baner1.png" width="300"/>
-<img src="https://xerus-ris.com/images/baner2.png" width="300"/>
 <img src="https://xerus-ris.com/images/baner3.png" width="300"/>
 </p>
 
@@ -59,7 +58,6 @@ I build **production-ready healthcare systems** used in real clinical environmen
 <img src="https://xerus-ris.com/images/story/story2.png" width="150"/>
 <img src="https://xerus-ris.com/images/story/story4.png" width="150"/>
 <img src="https://xerus-ris.com/images/story/story5.png" width="150"/>
-<img src="https://xerus-ris.com/images/story/story6.png" width="150"/>
 <img src="https://xerus-ris.com/images/story/story7.png" width="150"/>
 </p>
 
