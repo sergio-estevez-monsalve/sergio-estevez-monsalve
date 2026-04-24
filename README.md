@@ -1,4 +1,4 @@
-<h1 align="center">Sergio Estevez Monsalve</h1>
+<h1 align="center">Hi 👋, I'm Sergio Estevez Monsalve</h1>
 
 <p align="center">
 <strong>Full Stack Engineer • DICOM • PACS • RIS Specialist • OHIF • Healthcare Tech</strong>
