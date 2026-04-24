@@ -1,4 +1,4 @@
-<h1 align="center">Sergio Estevez Monsalve</h1>
+<h1 align="center">Hi 👋, I'm Sergio Estevez Monsalve</h1>
 
 <p align="center">
 <strong>Full Stack Engineer • DICOM • PACS • RIS Specialist • OHIF • Healthcare Tech</strong>
@@ -51,32 +51,26 @@ I build **production-ready healthcare systems** used in real clinical environmen
 ## 🖥️ Screenshots Xerus RIS
 
 <p align="center">
-<img src="https://xerus-ris.com/images/baner1.png" width="800"/>
-</p>
-
-<p align="center">
-<img src="https://xerus-ris.com/images/baner2.png" width="800"/>
-</p>
-
-<p align="center">
-<img src="https://xerus-ris.com/images/baner3.png" width="800"/>
+<img src="https://xerus-ris.com/images/baner1.png" width="400"/>
+<img src="https://xerus-ris.com/images/baner2.png" width="400"/>
+<img src="https://xerus-ris.com/images/baner3.png" width="400"/>
 </p>
 
 ### 📸 Workflow & UI
 
 <p align="center">
-<img src="https://xerus-ris.com/images/story/story1.png" width="400"/>
-<img src="https://xerus-ris.com/images/story/story2.png" width="400"/>
+<img src="https://xerus-ris.com/images/story/story1.png" width="200"/>
+<img src="https://xerus-ris.com/images/story/story2.png" width="200"/>
 </p>
 
 <p align="center">
-<img src="https://xerus-ris.com/images/story/story4.png" width="400"/>
-<img src="https://xerus-ris.com/images/story/story5.png" width="400"/>
+<img src="https://xerus-ris.com/images/story/story4.png" width="200"/>
+<img src="https://xerus-ris.com/images/story/story5.png" width="200"/>
 </p>
 
 <p align="center">
-<img src="https://xerus-ris.com/images/story/story6.png" width="400"/>
-<img src="https://xerus-ris.com/images/story/story7.png" width="400"/>
+<img src="https://xerus-ris.com/images/story/story6.png" width="200"/>
+<img src="https://xerus-ris.com/images/story/story7.png" width="200"/>
 </p>
 
 ---
@@ -111,19 +105,6 @@ https://youtu.be/WalNPoDXngE
 
 - ☢️ RIS Integration  
 https://youtu.be/dF5z4Ul-S9g
-
----
-
-## 📊 GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
