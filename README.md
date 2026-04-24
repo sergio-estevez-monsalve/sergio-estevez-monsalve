@@ -13,8 +13,6 @@
 <img src="https://img.shields.io/badge/OHIF-Viewer-orange?style=for-the-badge"/>
 </p>
 
----
-
 ## 🧠 About
 
 Front-end and back-end developer focused on **medical imaging systems**.  
@@ -46,34 +44,27 @@ I build **production-ready healthcare systems** used in real clinical environmen
 - ⚡ Integración completa con PACS y visores DICOM
 - 🌐 Sistema web accesible y escalable
 
----
-
 ## 🖥️ Screenshots Xerus RIS
 
 <p align="center">
-<img src="https://xerus-ris.com/images/baner1.png" width="400"/>
-<img src="https://xerus-ris.com/images/baner2.png" width="400"/>
-<img src="https://xerus-ris.com/images/baner3.png" width="400"/>
+<img src="https://xerus-ris.com/images/baner1.png" width="300"/>
+<img src="https://xerus-ris.com/images/baner2.png" width="300"/>
+<img src="https://xerus-ris.com/images/baner3.png" width="300"/>
 </p>
 
 ### 📸 Workflow & UI
 
 <p align="center">
-<img src="https://xerus-ris.com/images/story/story1.png" width="200"/>
-<img src="https://xerus-ris.com/images/story/story2.png" width="200"/>
+<img src="https://xerus-ris.com/images/story/story1.png" width="150"/>
+<img src="https://xerus-ris.com/images/story/story2.png" width="150"/>
+<img src="https://xerus-ris.com/images/story/story4.png" width="150"/>
 </p>
 
 <p align="center">
-<img src="https://xerus-ris.com/images/story/story4.png" width="200"/>
-<img src="https://xerus-ris.com/images/story/story5.png" width="200"/>
+<img src="https://xerus-ris.com/images/story/story5.png" width="150"/>
+<img src="https://xerus-ris.com/images/story/story6.png" width="150"/>
+<img src="https://xerus-ris.com/images/story/story7.png" width="1500"/>
 </p>
-
-<p align="center">
-<img src="https://xerus-ris.com/images/story/story6.png" width="200"/>
-<img src="https://xerus-ris.com/images/story/story7.png" width="200"/>
-</p>
-
----
 
 ## 💼 What I Do
 
@@ -81,8 +72,6 @@ I build **production-ready healthcare systems** used in real clinical environmen
 - 🧩 Custom RIS development
 - 🧠 Workflow automation for radiology centers
 - 🌐 Full-stack web platforms (Java + JS ecosystem)
-
----
 
 ## 🛠 Tech Stack
 
