@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://xerus-ris.com/" target="_blank">
-<img src="https://img.shields.io/badge/Xerus%20RIS-Live-blue?style=for-the-badge&logo=google-chrome"/>
-</a>
+<a href="https://xerus-ris.com/" target="_blank"></a>
 <img src="https://img.shields.io/badge/DICOM-Expert-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PACS-Integration-informational?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OHIF-Viewer-orange?style=for-the-badge"/>
