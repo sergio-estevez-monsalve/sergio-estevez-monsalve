@@ -54,7 +54,7 @@ I build **production-ready healthcare systems** used in real clinical environmen
 
 <p align="center">
 <img src="https://xerus-ris.com/uploads/hero/1789529235_6aaa0c9371bc9.png" width="300"/>
-<img src="http://xerus-ris.com/uploads/hero/1789529966_6aaa0f6e0c701.png" width="300"/>
+<img src="https://xerus-ris.com/uploads/hero/1789529235_6aaa0c9371bc9.png" width="300"/>
 </p>
 
 ### 📸 Workflow & UI
@@ -62,7 +62,7 @@ I build **production-ready healthcare systems** used in real clinical environmen
 <p align="center">
 <img src="https://xerus-ris.com/uploads/hero/1790869717_6abe80d549c9f.png" width="150"/>
 <img src="https://xerus-ris.com/assets/img/servicios/portal-pacientes.png" width="150"/>
-<img src="https://xerus-ris.com/uploads/hero/1789529235_6aaa0c9371bc9.png" width="150"/>
+<img src="http://xerus-ris.com/uploads/hero/1789529966_6aaa0f6e0c701.png" width="150"/>
 <img src="http://xerus-ris.com/uploads/hero/1789529966_6aaa0f6e0c701.png" width="150"/>
 <img src="http://xerus-ris.com/uploads/hero/1789529966_6aaa0f6e0c701.png" width="150"/>
 </p>
