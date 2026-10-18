@@ -53,8 +53,8 @@ I build **production-ready healthcare systems** used in real clinical environmen
 ## 🖥️ Screenshots Xerus RIS
 
 <p align="center">
-<img src="https://xerus-ris.com/uploads/hero/1789529235_6aaa0c9371bc9.png" width="300"/>
-<img src="https://xerus-ris.com/uploads/hero/1789529235_6aaa0c9371bc9.png" width="300"/>
+<img src="https://xerus-ris.com/uploads/hero/1789529235_6aaa0c9371bc9.png" width="200"/>
+<img src="https://xerus-ris.com/uploads/hero/1789529235_6aaa0c9371bc9.png" width="200"/>
 </p>
 
 ### 📸 Workflow & UI
