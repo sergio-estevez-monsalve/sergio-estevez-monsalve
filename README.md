@@ -53,16 +53,17 @@ I build **production-ready healthcare systems** used in real clinical environmen
 ## 🖥️ Screenshots Xerus RIS
 
 <p align="center">
-<img src="https://xerus-ris.com/uploads/hero/1789529235_6aaa0c9371bc9.png" width="200"/>
-<img src="https://xerus-ris.com/uploads/hero/1789529235_6aaa0c9371bc9.png" width="200"/>
+<img src="https://xerus-ris.com/uploads/hero/1789529235_6aaa0c9371bc9.png" width="180"/>
+<img src="https://xerus-ris.com/uploads/hero/1792306376_6ad46cc82a722.png" width="180"/>
 </p>
 
 ### 📸 Workflow & UI
 
 <p align="center">
-<img src="https://xerus-ris.com/assets/img/servicios/ris-pacs.png" width="250"/>
-<img src="https://xerus-ris.com/assets/img/servicios/portal-pacientes.png" width="250"/>
-<img src="http://xerus-ris.com/uploads/hero/1789529966_6aaa0f6e0c701.png" width="250"/>
+<img src="https://xerus-ris.com/assets/img/servicios/ris-pacs.png" width="280"/>
+<img src="https://xerus-ris.com/assets/img/servicios/portal-pacientes.png" width="280"/>
+<img src="http://xerus-ris.com/uploads/hero/1789529966_6aaa0f6e0c701.png" width="280"/>
+<img src="https://xerus-ris.com/uploads/hero/1792306341_6ad46ca5049f8.png" width="280"/>
 </p>
 
 ## 💼 What I Do
